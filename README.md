@@ -1,6 +1,8 @@
 # Among Us Rig V1.0
 TheCrinjeMasterJay's Among Us Rig
 
+**Check out the channel!: https://www.youtube.com/channel/UCIowLb6bRhrORsLBmUhNWXA"
+
 If this gets enough support, I will be willing to update it further!
 
 Here's a demonstration :  https://youtu.be/Mt3Ai-OcozM
