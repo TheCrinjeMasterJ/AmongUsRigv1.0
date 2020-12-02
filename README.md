@@ -14,6 +14,8 @@ Here's a demonstration :  https://youtu.be/Mt3Ai-OcozM
 
 * The rig only works with Blender™.
 
+* **THE EXAMPLE SCENE REQUIRES YOU TO HAVE THE FREE TEXTFX ADDON(https://codeofart.com/text-fx/). I AM NOT AFFILIATED WITH THE CREATOR OF THE ADDON IN ANYWAY.**
+
 * When using the rig, you **MUST** change the *View Transform* from **Filmic** to **Standard**, (*Render Properties>Color Management>View Transform*) **In order to keep the correct coloring**.
 
 * **To use this in a project, go to the project file, then *File>Append*, Locate AmongUsRigv1.0.blend(the rig you downloaded), and append the *Collection.***
