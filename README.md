@@ -7,7 +7,7 @@ Here's a demonstration :  https://youtu.be/Mt3Ai-OcozM
 
 *Even though it is a 2D Rig, it is meant to be used in a 3D viewport. 2D Viewport capabilities are not tested.*
 
-**If you decide to use it in your animations, please credit me, even though I might not add a copyright complaint against you. **
+**If you decide to use it in your animations, please credit me, even though I will not report you. I would really appreciate if you do, but you don't have to. Just email(thecrinjemasterjay@gmail.com) and let us know before you use it without crediting us.**
 
 
 # *IMPORTANT*! ⚠
