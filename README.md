@@ -14,7 +14,7 @@ Here's a demonstration :  https://youtu.be/Mt3Ai-OcozM
 
 # *IMPORTANT*! ⚠
 
-* The rig only works with Blender™.
+* The rig only works with Blender™ 2.8+. We are currently still working to support the 2.7x versions at the moment.
 
 * **THE EXAMPLE SCENE REQUIRES YOU TO HAVE THE FREE TEXTFX ADDON(https://codeofart.com/text-fx/). I AM NOT AFFILIATED WITH THE CREATOR OF THE ADDON IN ANYWAY.**
 
